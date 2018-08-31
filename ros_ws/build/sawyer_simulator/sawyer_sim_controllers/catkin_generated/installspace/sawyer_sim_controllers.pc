@@ -1,0 +1,8 @@
+prefix=/home/parallels/ros_ws/install
+
+Name: sawyer_sim_controllers
+Description: Description of sawyer_sim_controllers
+Version: 5.2.0
+Cflags: -I/home/parallels/ros_ws/install/include
+Libs: -L/home/parallels/ros_ws/install/lib -lsawyer_sim_controllers
+Requires: sawyer_hardware_interface roscpp

@@ -1,0 +1,8 @@
+prefix=/home/parallels/ros_ws/devel
+
+Name: sawyer_hardware_interface
+Description: Description of sawyer_hardware_interface
+Version: 5.2.0
+Cflags: -I/home/parallels/ros_ws/src/sawyer_simulator/sawyer_hardware_interface/include
+Libs: -L/home/parallels/ros_ws/devel/lib 
+Requires: hardware_interface roscpp

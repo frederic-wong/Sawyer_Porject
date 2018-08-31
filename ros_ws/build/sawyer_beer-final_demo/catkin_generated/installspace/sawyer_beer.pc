@@ -1,0 +1,8 @@
+prefix=/home/parallels/ros_ws/install
+
+Name: sawyer_beer
+Description: Description of sawyer_beer
+Version: 0.0.0
+Cflags: -I/home/parallels/ros_ws/install/include
+Libs: -L/home/parallels/ros_ws/install/lib 
+Requires: cv_bridge geometry_msgs intera_core_msgs message_generation roscpp rospy sensor_msgs std_msgs std_srvs message_runtime
