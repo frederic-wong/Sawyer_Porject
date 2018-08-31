@@ -1,0 +1,8 @@
+prefix=/home/parallels/ros_ws/install
+
+Name: sawyer_apps
+Description: Description of sawyer_apps
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/parallels/ros_ws/install/lib 
+Requires: 
